@@ -1,6 +1,7 @@
 # 3D CNNs with Adaptive Temporal Feature Resolutions
 
 Source code of the CVPR 2021 paper: ["3D CNNs with Adaptive Temporal Feature Resolutions"](https://arxiv.org/pdf/2011.08652.pdf).
+Coming soon! Stay Tuned!
 
 
 
