@@ -9,7 +9,7 @@ Coming soon! Stay Tuned!
 @inproceedings{sgs2021,
     Author    = {Mohsen Fayyaz, Emad Bahrami, Ali Diba, Mehdi Noroozi, Ehsan Adeli, Luc Van Gool, Juergen Gall},
     Title     = {{3D CNNs with Adaptive Temporal Feature Resolutions}},
-    Booktitle = {{CVPR}},
+    Booktitle = {{The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) }},
     Year      = {2021}
 }
 ```
