@@ -17,7 +17,7 @@ Similarity Guided Sampling (SGS) is a differentiable module which can be plugged
 
 ## Installation
 
-Please find installation instructions for PyTorch and PySlowFast in [INSTALL.md](INSTALL.md). You may follow the instructions in [DATASET.md](sgs/datasets/DATASET.md) to prepare the datasets.
+Please find installation instructions in [INSTALL.md](INSTALL.md). You may follow the instructions in [DATASET.md](sgs/datasets/DATASET.md) to prepare the datasets.
 
 ## Quick Start
 
