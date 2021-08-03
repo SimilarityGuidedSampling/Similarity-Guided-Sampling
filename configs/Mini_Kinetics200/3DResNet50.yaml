@@ -1,7 +1,7 @@
 TRAIN:
   ENABLE: True
   DATASET: kineticsjpg
-  BATCH_SIZE: 8
+  BATCH_SIZE: 64
   EVAL_PERIOD: 2
   CHECKPOINT_PERIOD: 1
   AUTO_RESUME: False
@@ -51,7 +51,7 @@ TEST:
 DATA_LOADER:
   NUM_WORKERS: 0
   PIN_MEMORY: True
-NUM_GPUS: 1
+NUM_GPUS: 8
 NUM_SHARDS: 1
 RNG_SEED: 0
 OUTPUT_DIR: ./experiments/mini_kinetics
